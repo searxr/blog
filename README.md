@@ -1,0 +1,2 @@
+# blog
+The SearX devblog
